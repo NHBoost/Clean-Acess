@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editor
+.vscode/
+.idea/
+*.sublime-*
+
+# Local config
+.claude/settings.local.json
+
+# Archives (don't commit big files)
+*.zip
+*.rar
+*.tar.gz
+
+# Node / build (au cas où)
+node_modules/
+dist/
+build/
+.env
+.env.local
