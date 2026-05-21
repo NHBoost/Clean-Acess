@@ -1,0 +1,12 @@
+# robots.txt — Accès Clean
+# https://acces-clean.be
+
+User-agent: *
+Allow: /
+
+# Pas d'indexation des assets internes inutiles
+Disallow: /access-cln/
+Disallow: /*.zip$
+
+# Sitemap
+Sitemap: https://acces-clean.be/sitemap.xml

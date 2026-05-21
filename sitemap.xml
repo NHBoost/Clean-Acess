@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://acces-clean.be/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://acces-clean.be/assets/og-cover.jpg</image:loc>
+      <image:title>Accès Clean — Nettoyage professionnel à Bruxelles</image:title>
+      <image:caption>Équipe Accès Clean en intervention</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://acces-clean.be/assets/gallery/02.png</image:loc>
+      <image:title>Avant / après — Open space à Bruxelles</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://acces-clean.be/assets/gallery/03.png</image:loc>
+      <image:title>Avant / après — Bureau individuel</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://acces-clean.be/assets/gallery/04.png</image:loc>
+      <image:title>Avant / après — Moquette professionnelle</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://acces-clean.be/assets/gallery/05.png</image:loc>
+      <image:title>Avant / après — Sanitaires d'entreprise</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://acces-clean.be/assets/gallery/06.png</image:loc>
+      <image:title>Avant / après — Salle de pause</image:title>
+    </image:image>
+  </url>
+
+</urlset>
